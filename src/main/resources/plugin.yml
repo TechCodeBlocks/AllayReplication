@@ -1,0 +1,6 @@
+name: Allaydupe
+version: '${project.version}'
+main: benjaminsolomons.allaydupe.Allaydupe
+api-version: 1.19
+authors: [ BenjaminSolomons ]
+description: Replicating 1.19.1 Allay duplication in 1.19 (without dancing)
